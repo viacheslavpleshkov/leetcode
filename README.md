@@ -2,9 +2,18 @@
 
 Solutions to LeetCode problems.
 
+Profile: https://leetcode.com/u/vpleshkov/
+
 ## Layout
 
 One directory per problem, named `<number>-<slug>`, containing the solution and notes.
+
+## Solved
+
+| # | Problem | Difficulty | Topic | Language |
+|---|---------|------------|-------|----------|
+| 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy | Database | MySQL |
+| 3465 | [Find Products with Valid Serial Numbers](3465-find-products-with-valid-serial-numbers/) | Easy | Database | MySQL |
 
 ## Topics
 
@@ -54,8 +63,13 @@ Problems grouped by the main technique they exercise. Each topic links to its pr
 - Rolling Hash / KMP
 - Design (LRU, LFU, Iterators)
 
+### Database
+
+- SQL: [175](0175-combine-two-tables/), [3465](3465-find-products-with-valid-serial-numbers/)
+
 ## Progress
 
 | Topic | Solved |
 |-------|--------|
-| Total | 0 |
+| Database | 2 |
+| Total | 2 |
