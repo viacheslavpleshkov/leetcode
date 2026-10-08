@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/vpleshkov/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-vpleshkov-FFA116?logo=leetcode&logoColor=white"></a>
-  <img alt="Solved" src="https://img.shields.io/badge/solved-2-blue">
-  <img alt="Easy" src="https://img.shields.io/badge/easy-2-00b8a3">
+  <img alt="Solved" src="https://img.shields.io/badge/solved-3-blue">
+  <img alt="Easy" src="https://img.shields.io/badge/easy-3-00b8a3">
   <img alt="Medium" src="https://img.shields.io/badge/medium-0-ffc01e">
   <img alt="Hard" src="https://img.shields.io/badge/hard-0-ff375f">
 </p>
@@ -25,6 +25,7 @@
 
 | # | Problem | Difficulty | Topic | Language |
 |:-:|---------|:----------:|-------|:--------:|
+| 1 | [Two Sum](arrays-hashing/0001-two-sum/) | 🟢 Easy | Arrays & Hashing | Go |
 | 175 | [Combine Two Tables](database/0175-combine-two-tables/) | 🟢 Easy | Database | MySQL |
 | 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | MySQL |
 
@@ -32,10 +33,10 @@
 
 Problems are grouped by the main technique they exercise. A topic becomes a link once it has at least one solved problem.
 
-<details>
+<details open>
 <summary><b>Data structures</b></summary>
 
-- Arrays & Hashing
+- [Arrays & Hashing](arrays-hashing/) · 1 solved
 - Two Pointers
 - Sliding Window
 - Stack & Monotonic Stack
