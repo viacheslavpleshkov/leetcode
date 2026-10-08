@@ -6,18 +6,27 @@ Profile: https://leetcode.com/u/vpleshkov/
 
 ## Layout
 
-One directory per problem, named `<number>-<slug>`, containing the solution and notes.
+```
+<topic>/                     one directory per topic (see Topics below)
+  README.md                  index of solved problems in that topic
+  <number>-<slug>/           one directory per problem
+    README.md                problem summary, approach, complexity
+    solution.<ext>           the accepted solution
+templates/                   starter files for a new problem
+```
+
+Topic directories are created when the first problem in that topic is solved. The number is zero-padded to four digits so directories sort correctly.
 
 ## Solved
 
 | # | Problem | Difficulty | Topic | Language |
 |---|---------|------------|-------|----------|
-| 175 | [Combine Two Tables](0175-combine-two-tables/) | Easy | Database | MySQL |
-| 3465 | [Find Products with Valid Serial Numbers](3465-find-products-with-valid-serial-numbers/) | Easy | Database | MySQL |
+| 175 | [Combine Two Tables](database/0175-combine-two-tables/) | Easy | Database | MySQL |
+| 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | Easy | Database | MySQL |
 
 ## Topics
 
-Problems grouped by the main technique they exercise. Each topic links to its problems as they are added.
+Problems grouped by the main technique they exercise. A topic becomes a link once it has at least one solved problem.
 
 ### Data structures
 
@@ -63,13 +72,24 @@ Problems grouped by the main technique they exercise. Each topic links to its pr
 - Rolling Hash / KMP
 - Design (LRU, LFU, Iterators)
 
-### Database
+### Other
 
-- SQL: [175](0175-combine-two-tables/), [3465](3465-find-products-with-valid-serial-numbers/)
+- [Database](database/) (2)
+- Shell
+- Concurrency
 
 ## Progress
 
-| Topic | Solved |
-|-------|--------|
-| Database | 2 |
-| Total | 2 |
+| Difficulty | Solved |
+|------------|--------|
+| Easy | 2 |
+| Medium | 0 |
+| Hard | 0 |
+| **Total** | **2** |
+
+## Adding a problem
+
+1. Copy the template: `cp -r templates/problem <topic>/<number>-<slug>`
+2. Fill in the README and keep only the solution file you need.
+3. Add a row to the topic's README and to the Solved table above.
+4. Update the Progress table.
