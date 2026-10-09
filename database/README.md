@@ -1,6 +1,6 @@
 # Database
 
-SQL problems. Each solution is a `solution.sql` written for MySQL unless noted otherwise.
+SQL problems. Each solution is a `solution.sql` written for MySQL unless noted otherwise; PostgreSQL versions live in `solution.postgresql.sql`.
 
 | # | Problem | Difficulty | Notes |
 |---|---------|------------|-------|
