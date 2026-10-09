@@ -2,7 +2,7 @@
 
 - Difficulty: Easy
 - Topic: Database
-- Language: MySQL (`solution.sql`), PostgreSQL (`solution.postgresql.sql`)
+- Language: PostgreSQL (`solution.postgresql.sql`), MySQL (`solution.sql`)
 - Link: https://leetcode.com/problems/find-customer-referee/
 
 Report the names of customers who were not referred by the customer with `id = 2`.

@@ -27,10 +27,10 @@
 |:-:|---------|:----------:|-------|:--------:|
 | 1 | [Two Sum](arrays-hashing/0001-two-sum/) | 🟢 Easy | Arrays & Hashing | Go, TypeScript |
 | 13 | [Roman to Integer](math/0013-roman-to-integer/) | 🟢 Easy | Math & Geometry | Go, TypeScript |
-| 175 | [Combine Two Tables](database/0175-combine-two-tables/) | 🟢 Easy | Database | MySQL, PostgreSQL |
-| 584 | [Find Customer Referee](database/0584-find-customer-referee/) | 🟢 Easy | Database | MySQL, PostgreSQL |
-| 1757 | [Recyclable and Low Fat Products](database/1757-recyclable-and-low-fat-products/) | 🟢 Easy | Database | MySQL, PostgreSQL |
-| 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | MySQL, PostgreSQL |
+| 175 | [Combine Two Tables](database/0175-combine-two-tables/) | 🟢 Easy | Database | PostgreSQL, MySQL |
+| 584 | [Find Customer Referee](database/0584-find-customer-referee/) | 🟢 Easy | Database | PostgreSQL, MySQL |
+| 1757 | [Recyclable and Low Fat Products](database/1757-recyclable-and-low-fat-products/) | 🟢 Easy | Database | PostgreSQL, MySQL |
+| 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | PostgreSQL, MySQL |
 
 ## Topics
 

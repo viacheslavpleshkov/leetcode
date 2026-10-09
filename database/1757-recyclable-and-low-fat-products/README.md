@@ -2,7 +2,7 @@
 
 - Difficulty: Easy
 - Topic: Database
-- Language: MySQL (`solution.sql`), PostgreSQL (`solution.postgresql.sql`)
+- Language: PostgreSQL (`solution.postgresql.sql`), MySQL (`solution.sql`)
 - Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
 
 Report the ids of products that are both low fat and recyclable.
