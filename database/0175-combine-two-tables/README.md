@@ -2,7 +2,7 @@
 
 - Difficulty: Easy
 - Topic: Database
-- Language: MySQL
+- Language: MySQL (`solution.sql`), PostgreSQL (`solution.postgresql.sql`)
 - Link: https://leetcode.com/problems/combine-two-tables/
 
 Report first name, last name, city and state for every person. Include people who have no address.
