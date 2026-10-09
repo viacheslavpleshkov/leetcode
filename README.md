@@ -30,7 +30,7 @@
 | 175 | [Combine Two Tables](database/0175-combine-two-tables/) | 🟢 Easy | Database | MySQL, PostgreSQL |
 | 584 | [Find Customer Referee](database/0584-find-customer-referee/) | 🟢 Easy | Database | MySQL, PostgreSQL |
 | 1757 | [Recyclable and Low Fat Products](database/1757-recyclable-and-low-fat-products/) | 🟢 Easy | Database | MySQL, PostgreSQL |
-| 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | MySQL |
+| 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | MySQL, PostgreSQL |
 
 ## Topics
 
