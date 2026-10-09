@@ -25,8 +25,8 @@
 
 | # | Problem | Difficulty | Topic | Language |
 |:-:|---------|:----------:|-------|:--------:|
-| 1 | [Two Sum](arrays-hashing/0001-two-sum/) | 🟢 Easy | Arrays & Hashing | Go |
-| 13 | [Roman to Integer](math/0013-roman-to-integer/) | 🟢 Easy | Math & Geometry | Go |
+| 1 | [Two Sum](arrays-hashing/0001-two-sum/) | 🟢 Easy | Arrays & Hashing | Go, TypeScript |
+| 13 | [Roman to Integer](math/0013-roman-to-integer/) | 🟢 Easy | Math & Geometry | Go, TypeScript |
 | 175 | [Combine Two Tables](database/0175-combine-two-tables/) | 🟢 Easy | Database | MySQL |
 | 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | MySQL |
 
