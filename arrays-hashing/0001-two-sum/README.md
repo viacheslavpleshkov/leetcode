@@ -2,7 +2,7 @@
 
 - Difficulty: Easy
 - Topic: Arrays & Hashing
-- Language: Go
+- Language: Go, TypeScript
 - Link: https://leetcode.com/problems/two-sum/
 
 Given an array of integers and a target, return the indices of the two numbers that add up to the target. Exactly one answer exists and an element may not be used twice.

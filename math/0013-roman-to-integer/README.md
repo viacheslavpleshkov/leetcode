@@ -2,7 +2,7 @@
 
 - Difficulty: Easy
 - Topic: Math, Hash Table, String
-- Language: Go
+- Language: Go, TypeScript
 - Link: https://leetcode.com/problems/roman-to-integer/
 
 Convert a Roman numeral string to an integer. Symbols are normally written largest to smallest; when a smaller symbol precedes a larger one (`IV`, `IX`, `XL`, `XC`, `CD`, `CM`) it is subtracted.
