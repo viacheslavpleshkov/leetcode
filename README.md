@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/vpleshkov/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-vpleshkov-FFA116?logo=leetcode&logoColor=white"></a>
-  <img alt="Solved" src="https://img.shields.io/badge/solved-4-blue">
-  <img alt="Easy" src="https://img.shields.io/badge/easy-4-00b8a3">
+  <img alt="Solved" src="https://img.shields.io/badge/solved-5-blue">
+  <img alt="Easy" src="https://img.shields.io/badge/easy-5-00b8a3">
   <img alt="Medium" src="https://img.shields.io/badge/medium-0-ffc01e">
   <img alt="Hard" src="https://img.shields.io/badge/hard-0-ff375f">
 </p>
@@ -28,6 +28,7 @@
 | 1 | [Two Sum](arrays-hashing/0001-two-sum/) | 🟢 Easy | Arrays & Hashing | Go, TypeScript |
 | 13 | [Roman to Integer](math/0013-roman-to-integer/) | 🟢 Easy | Math & Geometry | Go, TypeScript |
 | 175 | [Combine Two Tables](database/0175-combine-two-tables/) | 🟢 Easy | Database | MySQL |
+| 1757 | [Recyclable and Low Fat Products](database/1757-recyclable-and-low-fat-products/) | 🟢 Easy | Database | MySQL |
 | 3465 | [Find Products with Valid Serial Numbers](database/3465-find-products-with-valid-serial-numbers/) | 🟢 Easy | Database | MySQL |
 
 ## Topics
@@ -90,7 +91,7 @@ Problems are grouped by the main technique they exercise. A topic becomes a link
 <details open>
 <summary><b>Other</b></summary>
 
-- [Database](database/) · 2 solved
+- [Database](database/) · 3 solved
 - Shell
 - Concurrency
 
